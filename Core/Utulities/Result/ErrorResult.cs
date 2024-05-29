@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Core.Utulities.Result
 {
-    public class ErrorResult : Result
+    public class SuccessResult : Result
     {
-        public ErrorResult(string message) : base(true, message)
+        public SuccessResult(string message) : base(true, message)
         {
         }
 
-        public ErrorResult() : base(true)
+        public SuccessResult() : base(true)
         {
         }   
     }

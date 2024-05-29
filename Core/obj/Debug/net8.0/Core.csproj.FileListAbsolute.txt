@@ -10,3 +10,4 @@ C:\Users\Hexaf\Desktop\engindemirog\NorthwindBackend\Core\obj\Debug\net8.0\refin
 C:\Users\Hexaf\Desktop\engindemirog\NorthwindBackend\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\Hexaf\Desktop\engindemirog\NorthwindBackend\Core\obj\Debug\net8.0\ref\Core.dll
 C:\Users\Hexaf\Desktop\engindemirog\NorthwindBackend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Hexaf\Desktop\engindemirog\NorthwindBackend\Core\obj\Debug\net8.0\Core.sourcelink.json
